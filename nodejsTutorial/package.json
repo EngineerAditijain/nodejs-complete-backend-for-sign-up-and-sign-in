@@ -1,0 +1,27 @@
+{
+  "name": "nodejstutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineerAditijain/nodejsTutorial.git"
+  },
+  "author": "Aditi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngineerAditijain/nodejsTutorial/issues"
+  },
+  "homepage": "https://github.com/EngineerAditijain/nodejsTutorial#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.6",
+    "nodemon": "^2.0.16"
+  }
+}
